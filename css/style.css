@@ -338,6 +338,10 @@ section {
   background: var(--main-color);
 }
 
+.products .box-container .box .icons a:active {
+  color: #13131a;
+}
+
 .products .box-container .box .image {
   padding: 2.5rem 0;
 }
